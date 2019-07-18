@@ -27,7 +27,7 @@ aws lambda update-function-code --function-name ProcessKinesisRecords \
 
 You can use this to delete the function:
 ```
-aws lambda delete-function --function-name ProcessKinesisRecord
+aws lambda delete-function --function-name ProcessKinesisRecords
 ```
 
 Use this to test the function:
